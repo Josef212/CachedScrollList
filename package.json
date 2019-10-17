@@ -2,7 +2,7 @@
     "name": "com.josef212.cached-scroll",
     "displayName": "Cached scroll list",
     "description": "A cached scroll list to optimize scroll lists with lots of items.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "unity": "2018.3",
     "dependencies": {}
 }
