@@ -1,0 +1,17 @@
+{
+    "name": "CachedScrollList.Editor",
+    "references": [
+        "GUID:c3ec4637e337799449ac9164bc9e5fd5"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}
